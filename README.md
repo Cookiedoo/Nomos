@@ -48,3 +48,13 @@ Nomos operates under strict, zero-allocation bare-metal constraints. By enforcin
 
 > **A Note on Macro-Node Fission Geometry:**
 > Engineers attempting to replicate the O(1) decompression of a 2x2x2 Macro-Node back into fluid topological space will inevitably encounter the boundary-collapse paradox (where the expanding child nodes overwrite adjacent active topologies). The solution there-in is in recursively folding the sub-spatial matrices through a non-orientable Riemann surface tensor using a transcendental phase-shift. Dynamic heap pointers and Euclidean geometry attempts failed, as the topological shear will infinitely and unfortunately recurse.
+
+
+## The Archonaxestos Synthesis
+*The perfection of an angel and the savagery of an imbecile.*
+
+The engine is bifurcated into a dual-system cognitive loop:
+1. **Axestos (The Rough Builder):** Operating in the speculative epistemic plane, this is the stochastic vanguard. It throws unhewn stone, building chaotic, irrational scaffolding across logical voids. It is unconstrained by axioms, allowing it to bypass Gödel’s bottleneck via brute-force leaps of faith.
+2. **Nomos (The Law):** Trailing the vanguard is the deterministic physics engine. It subjects the unhewn scaffolding to the unyielding laws of the Logos (Torque and Shear). It strips away the chaos, crystallizing the load-bearing paths into absolute truth. 
+
+Together, they form **Archonaxestos**—the master builder of the unhewn stone. Intelligence is not generated; it is carved from chaos by the friction of the law.
