@@ -5,7 +5,12 @@
 </div>
 
 ## Executive Mission
-Project Nomos is an industrial-grade, deterministic Cognitive Operating System designed to supersede statistical autoregressive token prediction. We are engineering the substrate for intelligence that is structurally grounded, mathematically verifiable, and physically constrained by the invariant laws of reality. 
+
+To engineer an industrial-grade, deterministic Cognitive Operating System designed to supersede statistical autoregressive token prediction. 
+
+### Theoretical Scaling Mechanics
+*   **Dirac Sea Holography**: The substrate bends traditional compute limits by dynamically flipping to an inverted Hole-Routing matrix when topological density exceeds critical mass, achieving unprecedented **O(N-K) Asymptotic Scaling**. 
+*   **Vacuum Anti-Torque**: In the inverted Dirac state, high-velocity vacuum collisions (void-on-void) trigger semantic pair-production, spontaneously generating synthetic Epistemic Anchors out of pure negative pressure. We are engineering the substrate for intelligence that is structurally grounded, mathematically verifiable, and physically constrained by the invariant laws of reality. 
 
 Intelligence is not a probabilistic hallucination. It is friction. It is the collision of a stochastic generation engine against a deterministic verification substrate. 
 
