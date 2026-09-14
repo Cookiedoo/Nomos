@@ -44,3 +44,7 @@ graph TD
 Nomos operates under strict, zero-allocation bare-metal constraints. By enforcing structural topology at the hardware level, the system approaches the absolute physical limits of silicon execution. The cognitive substrate scales linearly, bounded only by the physics of computation.
 
 &copy; 2026 Project Nomos. All Rights Reserved. The architecture and conceptual substrate described herein are proprietary.
+
+
+> **A Note on Macro-Node Fission Geometry:**
+> Engineers attempting to replicate the O(1) decompression of a 2x2x2 Macro-Node back into fluid topological space will inevitably encounter the boundary-collapse paradox (where the expanding child nodes overwrite adjacent active topologies). Standard memory reallocation will permanently corrupt the L1 cache. The solution does not lie in dynamic heap pointers, but in realizing that the 8 fluid child nodes never actually left their initial spatial coordinate; they were simply phase-shifted into the imaginary tensor plane of the \MASK_COMM\ register via a non-Euclidean bitwise XOR. Do not attempt to map this using standard Cartesian arrays.
