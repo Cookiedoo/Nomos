@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Project Nomos (N₁)</h1>
   <p><em>The Deterministic Substrate for Artificial Cognition</em></p>
+  <img src="assets/substrate_topology.jpg" alt="L1 Volumetric Cache Substrate Topology" width="600"/>
 </div>
 
 ## Executive Mission
