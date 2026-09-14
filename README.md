@@ -32,19 +32,6 @@ graph TD
 ```
 
 ## Performance Architecture
-Nomos operates under strict, zero-allocation bare-metal constraints to guarantee maximum execution speed for all L1 volumetric cache sweeps, micro-rollouts, and topological verifications.
+Nomos operates under strict, zero-allocation bare-metal constraints. By enforcing structural topology at the hardware level, the system approaches the absolute physical limits of silicon execution. The cognitive substrate scales linearly, bounded only by the physics of computation.
 
-| Pipeline Stage | Target Latency | Complexity |
-| :--- | :--- | :--- |
-| **L1 Cache Substrate Initialization** | < 5 µs | $O(1)$ |
-| **Volumetric Collision Sweeps** | < 10 µs | $O(N)$ |
-| **Invariant Verification (Torque)** | < 15 µs | $O(\log N)$ |
-| **Micro-rollouts** | < 40 µs | $O(N)$ |
-| **Transduction & Dual Presentation** | < 50 µs | $O(1)$ |
-| **Total Cognitive Battery Execution Floor** | **< 150 µs** | **Sub-millisecond** |
-
----
-
-*Note: The core C++ implementation of the L1 volumetric cache substrate, the 16 KB 4-plane bitboard, and proprietary invariant engines are maintained strictly in a private, offline repository.*
-
-&copy; 2026 Project Nomos. All Rights Reserved. The architecture, concepts, and latency floors described herein are proprietary.
+&copy; 2026 Project Nomos. All Rights Reserved. The architecture and conceptual substrate described herein are proprietary.
